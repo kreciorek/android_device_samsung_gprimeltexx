@@ -5,4 +5,5 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
 	lineage_gprimeltexx-eng \
 	lineage_gprimeltexx-userdebug \
-	lineage_gprimeltexx-user
+	lineage_gprimeltexx-user \
+        lineage_gprimeltexx-ap2a-userdebug \
